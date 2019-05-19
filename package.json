@@ -1,0 +1,16 @@
+{
+  "name": "mapTypes",
+  "version": "1.0.0",
+  "description": "NodeJS Module for iterating over an Object to replace key(String) with key(ObjectType)",
+  "main": "index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vonor/mapTypes.git"
+  },
+  "author": "Michael Melcher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vonor/mapTypes/issues"
+  },
+  "homepage": "https://github.com/Vonor/mapTypes"
+}
