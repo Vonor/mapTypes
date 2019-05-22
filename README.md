@@ -40,7 +40,7 @@ npm i vonor/mapTypes
 ```
 
 ```js
-import mapTypes from 'mapTypes'
+const mapTypes = require('mapTypes');
 
 const schemaData = {
     'someDeclaration': {
@@ -55,7 +55,7 @@ console.log(typeof schemaData.someDeclaration.type) // => Number
 Additionally it is possible to turns a String into a Regex
 
 ```js
-import mapTypes from 'mapTypes'
+const mapTypes = require('mapTypes');
 
 const schemaData = {
     'someDeclaration': {

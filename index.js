@@ -26,4 +26,4 @@ const mapTypes = (object, key, options = {}) => {
     return object;
   }
 
-  export default mapTypes
+  module.exports=mapTypes
